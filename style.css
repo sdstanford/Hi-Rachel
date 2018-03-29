@@ -1,0 +1,28 @@
+
+.nav-wrapper{
+    background-color: darkorange;
+}
+
+.brand-logo{
+    font-family: 'Arapey', serif;
+}
+
+#cat-button{
+    font-family: 'Arapey', serif;
+    padding: 20px;
+    background-color: darkorange;
+    color: white;
+    font-size: 20px;
+}
+
+.container{
+    padding: 80px;
+}
+
+#button-div{
+    text-align: center;
+}
+
+#results-div{
+    margin-top:20px;
+}
